@@ -8,6 +8,7 @@ public class LoginPage {
 		String un = "Swap";
 		String pw = "1234";
 		System.out.println("logged in"); 
+		System.out.println("Logged in");
 	}
 
 }
